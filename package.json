@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mindbox-moscow/GHA-ReleaseNumber.git"
+    "url": "git+https://github.com/mindbox-cloud/GHA-ReleaseNumber.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mindbox-moscow/GHA-ReleaseNumber/issues"
+    "url": "https://github.com/mindbox-cloud/GHA-ReleaseNumber/issues"
   },
-  "homepage": "https://github.com/mindbox-moscow/GHA-ReleaseNumber#readme",
+  "homepage": "https://github.com/mindbox-cloud/GHA-ReleaseNumber#readme",
   "dependencies": {
-    "@actions/core": "^1.9.1",
+    "@actions/core": "^1.10.0",
     "@actions/github": "^1.1.0"
   }
 }
