@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Run the action
-        uses: mindbox-cloud/gha-release-number?ref=Avdeev/BumpActionCore
+        uses: mindbox-cloud/gha-release-number@ref=Avdeev/BumpActionCore
         id: release-number
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
